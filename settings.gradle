@@ -1,0 +1,3 @@
+include ':app'
+include ':statistic'
+project(':statistic').projectDir = new File('D:\\CODE\\Practice\\RetrofitServer\\statistic')
