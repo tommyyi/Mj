@@ -40,6 +40,7 @@ public class Center
                 }
             }
         };
+
         String appid= null;
         try
         {
